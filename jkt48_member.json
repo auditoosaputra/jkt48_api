@@ -280,5 +280,21 @@
           "photoUrl": "https://pbs.twimg.com/media/GK8v8IjasAAgn_R?format=jpg&name=900x900",
           "type": "Member"
       }
-  ]
+  ],
+  "events": [
+        {
+            "name": "2Shot",
+            "photoUrl": "https://pbs.twimg.com/media/GO0fFGDbQAEl48c?format=jpg&name=large",
+            "venue": "Sleman City Hall",
+            "time": "10:00",
+            "price": "200000"
+        },
+        {
+            "name": "Meet and Greet",
+            "photoUrl": "https://pbs.twimg.com/media/GO0fGtUaoAAoPpX?format=jpg&name=900x900",
+            "venue": "Sleman City Hall",
+            "time": "16:00",
+            "price": "75000"
+        }
+    ]
 }
